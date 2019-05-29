@@ -24,11 +24,6 @@ namespace DXApplication1
         }
 
 
-
-
-
-
-
         private void InitializeChart()
         {
             Series series = new Series();
